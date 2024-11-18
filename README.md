@@ -49,4 +49,4 @@ Le formulaire de connexion peut être facilement personnalisé en modifiant les 
 ## Améliorations futures
 - Implémenter la validation des formulaires
 - Ajouter des fonctionnalités aux boutons de connexion et d'authentification Google
-- Intégrer un backend avec NodeJs , php ou springBoot
+- Intégrer un backend avec NodeJs , Php ou avec SpringBoot 
